@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'enfer</title>
+            <author>Dante Alighieri</author>
+         </titleStmt>
+         <publicationStmt>
+            <p> http://dantelab.dartmouth.edu/reader</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>CHANT IV</head>
+            <lg>
+               <l>Je fus soudain tiré de mon profond sommeil</l>
+               <l>par un coup de tonnerre, et je revins à moi</l>
+               <l>comme lorsqu'on vous vient réveiller en sursaut.</l>
+            </lg>
+            <lg>
+               <l>Je promenais partout un regard frais et neuf</l>
+               <l>et, debout, je tâchais de tout bien observer,</l>
+               <l>pour reconnaître mieux l'endroit où nous étions.</l>
+            </lg>
+            <lg>
+               <l>Je pus m'apercevoir que j'étais sur le bord</l>
+               <l>du vallon douloureux de l'abîme où ne règne</l>
+               <l>que le bruit infini des lamentations.</l>
+            </lg>
+            <lg>
+               <l>Il était si profond et si plein de ténèbres</l>
+               <l>que, malgré mes efforts pour regarder au fond,</l>
+               <l>je ne puis distinguer aucun de ses détails.</l>
+            </lg>
+            <lg>
+               <l>« Nous descendons au sein de la nuit éternelle,</l>
+               <l>dit alors le poète au visage de cire ;</l>
+               <l>j'entrerai le premier, tu seras le second. »</l>
+            </lg>
+            <lg>
+               <l>Mais moi, m'apercevant soudain de sa pâleur,</l>
+               <l>je dis : « Comment entrer, si tu le crains toi-même,</l>
+               <l>qui devrais cependant me donner du courage ? »</l>
+            </lg>
+            <lg>
+               <l>« La pitié, me dit-il, que je sens pour les gens</l>
+               <l>perdus dans cette fosse a peint sur mon visage</l>
+               <l>la couleur que tu prends pour un signe de peur.</l>
+            </lg>
+            <lg>
+               <l>Allons ! Un grand chemin nous attend désormais ! »</l>
+               <l>C'est ainsi qu'il entrait et qu'il me fit entrer</l>
+               <l>dans le cercle premier qui fait le tour du puits.</l>
+            </lg>
+            <lg>
+               <l>Là, si je puis juger par ce qu'on entendait,</l>
+               <l>personne ne pleurait, mais de nombreux soupirs</l>
+               <l>y faisaient frissonner une brise éternelle.</l>
+            </lg>
+            <lg>
+               <l>Leur source à tous était la douleur sans tourment</l>
+               <l>qu'éprouvait cette foule aux vagues infinies,</l>
+               <l>d'hommes entremêlés de femmes et d'enfants.</l>
+            </lg>
+            <lg>
+               <l>Le bon maître me dit : « Ne veux-tu pas savoir</l>
+               <l>qui sont tous ces esprits que tu vois de si près ?</l>
+               <l>Or, il te faut savoir, avant d'aller plus loin,</l>
+            </lg>
+            <lg>
+               <l>qu'ils n'avaient pas péché. S'ils eurent du mérite,</l>
+               <l>il n'est pas suffisant : ils n'ont pas le baptême,</l>
+               <l>seule porte d'entrée à la foi qui te sauve.</l>
+            </lg>
+            <lg>
+               <l>La vérité chrétienne arrivant après eux,</l>
+               <l>ils ne purent aimer Dieu comme ils le devaient ;</l>
+               <l>et moi-même, d'ailleurs, j'appartiens à leur troupe.</l>
+            </lg>
+            <lg>
+               <l>C'est pour ce seul défaut, et non pour d'autres crimes,</l>
+               <l>que nous sommes perdus ; et notre seule peine</l>
+               <l>est de vivre et d'attendre et d'ignorer l'espoir. »</l>
+            </lg>
+            <lg>
+               <l>Je me sentis frémir de douleur, à l'entendre,</l>
+               <l>car je reconnaissais des hommes de valeur</l>
+               <l>parmi les condamnés compris dans ce grand limbe.</l>
+            </lg>
+            <lg>
+               <l>« Dis-moi donc, mon seigneur, dis-moi, mon maître,</l>
+               <l>commençai-je à lui dire, afin de mieux connaître alors,</l>
+               <l>la croyance qui seule supprime toute erreur,</l>
+            </lg>
+            <lg>
+               <l>nul n'est sorti d'ici pour aller au bonheur,</l>
+               <l>par son propre mérite ou par l'œuvre des autres ? »</l>
+               <l>Et lui, qui pénétrait le sens de mes propos,</l>
+            </lg>
+            <lg>
+               <l>il dit : « J'étais nouveau dans l'endroit que voici,</l>
+               <l>quand j'y vis arriver un Seigneur tout-puissant</l>
+               <l>et qui portait le nimbe en signe de victoire.</l>
+            </lg>
+            <lg>
+               <l>Il en a fait sortir l'ombre du premier père,</l>
+               <l>celle d'Abel son fils et celle de Noé,</l>
+               <l>Moïse auteur des lois obéissant à Dieu,</l>
+            </lg>
+            <lg>
+               <l>Abraham patriarche, avec le roi David,</l>
+               <l>Israël et son père, avec tous ses enfants</l>
+               <l>et Rachel pour laquelle il avait tant peiné,</l>
+            </lg>
+            <lg>
+               <l>avec d'autres encor, dont il fit des heureux ;</l>
+               <l>et il te faut savoir qu'avant ceux dont je parle</l>
+               <l>aucun esprit humain n'avait pu se sauver. »</l>
+            </lg>
+            <lg>
+               <l>Nous cheminions toujours pendant qu'il me parlait,</l>
+               <l>avançant tous les deux dans l'épaisse forêt</l>
+               <l>que formaient les troupeaux des âmes entassées ;</l>
+            </lg>
+            <lg>
+               <l>et depuis mon réveil nous n'avions parcouru</l>
+               <l>qu'un tout petit chemin, quand je crus entrevoir</l>
+               <l>comme un feu qui perçait la sphère des ténèbres,</l>
+            </lg>
+            <lg>
+               <l>et, malgré la distance où je l'apercevais,</l>
+               <l>je compris aussitôt que c'était un endroit</l>
+               <l>réservé pour des gens d'une classe meilleure.</l>
+            </lg>
+            <lg>
+               <l>« Toi, le plus grand honneur des sciences et des arts,</l>
+               <l>qui donc jouit là-bas d'un pareil privilège,</l>
+               <l>qui semble distinguer leur troupe au sein des autres ? »</l>
+            </lg>
+            <lg>
+               <l>« La gloire de leur nom, répondit-il alors,</l>
+               <l>qui retentit encore au monde d'où tu viens,</l>
+               <l>intercède pour eux, et le Ciel les protège. »</l>
+            </lg>
+            <lg>
+               <l>À ce même moment, j'entendis une voix</l>
+               <l>dire : « Rendons hommage à l'illustre poète :</l>
+               <l>son ombre rentre enfin aux lieux qu'elle a quittés. »</l>
+            </lg>
+            <lg>
+               <l>À peine cette voix achevait de parler,</l>
+               <l>que je vis s'avancer vers nous quatre ombres grandes</l>
+               <l>dont l'aspect ne montrait ni tristesse ni joie.</l>
+            </lg>
+            <lg>
+               <l>Et mon maître crut bon de m'expliquer encore :</l>
+               <l>« Tu vois celui qui tient une épée à la main</l>
+               <l>et marche comme un prince à la tête des autres :</l>
+            </lg>
+            <lg>
+               <l>ce souverain poète est le célèbre Homère,</l>
+               <l>et celui qui le suit, le satirique Horace ;</l>
+               <l>le suivant est Ovide, et le dernier, Lucain.</l>
+            </lg>
+            <lg>
+               <l>Comme ils sont, en effet, tous les quatre mes pairs</l>
+               <l>dans cette qualité que la voix vient de dire,</l>
+               <l>ils me font cet honneur, et d'ailleurs ils font bien. »</l>
+            </lg>
+            <lg>
+               <l>C'est ainsi que je vis le beau chœur assemblé</l>
+               <l>de ce puissant seigneur du chant le plus illustre,</l>
+               <l>qui plane comme un aigle au-dessus de ses pairs.</l>
+            </lg>
+            <lg>
+               <l>Après avoir parlé quelques instants entre eux,</l>
+               <l>ils se tournèrent tous vers moi, pour m'accueillir,</l>
+               <l>et mon maître observait ma mine en souriant.</l>
+            </lg>
+            <lg>
+               <l>Ils me firent alors un honneur bien plus grand,</l>
+               <l>car je fus même admis parmi leur compagnie,</l>
+               <l>moi sixième au milieu de ce conseil de sages.</l>
+            </lg>
+            <lg>
+               <l>Nous marchions en causant vers la clarté lointaine ;</l>
+               <l>mais le silence seul pourrait être aussi beau</l>
+               <l>que tout ce qui s'est dit en cette occasion.</l>
+            </lg>
+            <lg>
+               <l>Les murs d'un grand château se dressaient devant nous,</l>
+               <l>formant une septuple enceinte de murailles,</l>
+               <l>que les flots d'un grand fleuve entouraient de partout.</l>
+            </lg>
+            <lg>
+               <l>Nous pûmes cependant les franchir sans encombre</l>
+               <l>et passer les sept huis, avec ces philosophes,</l>
+               <l>pour arriver enfin dans un pré verdoyant.</l>
+            </lg>
+            <lg>
+               <l>On y voyait des gens absorbés et absents,</l>
+               <l>et leur aspect semblait inspirer le respect ;</l>
+               <l>ils parlaient rarement, et d'une voix très douce.</l>
+            </lg>
+            <lg>
+               <l>Je me mis à l'écart un peu sur le côté,</l>
+               <l>en un lieu découvert qui dominait le site,</l>
+               <l>afin de les pouvoir observer à mon aise.</l>
+            </lg>
+            <lg>
+               <l>Et c'est là, devant moi, sur cette herbe fleurie,</l>
+               <l>que j'ai vu tour à tour tant d'âmes magnanimes</l>
+               <l>que je suis orgueilleux d'avoir pu contempler.</l>
+            </lg>
+            <lg>
+               <l>Électre était là-bas avec ses compagnons,</l>
+               <l>et j'ai bien reconnu Hector auprès d'Énée</l>
+               <l>et de César armé les yeux d'oiseau de proie.</l>
+            </lg>
+            <lg>
+               <l>Un peu plus loin de là j'ai vu Penthésilée</l>
+               <l>et la vierge Camille et le roi Latinus</l>
+               <l>ayant à ses côtés sa fille Lavinie.</l>
+            </lg>
+            <lg>
+               <l>Et j'ai vu ce Brutus qui renversa Tarquin,</l>
+               <l>Lucrèce et Marcia, Julie et Cornélie,</l>
+               <l>et le grand Saladin, qui restait à l'écart.</l>
+            </lg>
+            <lg>
+               <l>Puis, en levant un peu le regard vers le haut,</l>
+               <l>j'aperçus le Seigneur de tous les philosophes,</l>
+               <l>au milieu d'un grand chœur de sages assemblés.</l>
+            </lg>
+            <lg>
+               <l>Tous se tournaient vers lui et lui rendaient hommage ;</l>
+               <l>j'y reconnus surtout et Socrate et Platon,</l>
+               <l>placés plus près de lui que les autres présents ;</l>
+            </lg>
+            <lg>
+               <l>Démocrite, qui fait du monde un coup de dés,</l>
+               <l>Diogène et Thaïes avec Anaxagore,</l>
+               <l>Zenon et Empédocle assis près d'Héraclite.</l>
+            </lg>
+            <lg>
+               <l>J'y vis le sage aussi qui décrivit les simples,</l>
+               <l>je veux dire par là Dioscoride, Orphée,</l>
+               <l>Sénèque moraliste, avec Tulle et Linus,</l>
+            </lg>
+            <lg>
+               <l>Euclide géomètre auprès de Ptolémée,</l>
+               <l>et plus loin Hippocrate, Avicenne et Galien,</l>
+               <l>avec Averroès, l'auteur du commentaire.</l>
+            </lg>
+            <lg>
+               <l>Je ne saurais écrire ici le nom de tous,</l>
+               <l>car un vaste sujet me presse tellement,</l>
+               <l>que très souvent les mots ne peuvent pas tout dire.</l>
+            </lg>
+            <lg>
+               <l>Notre groupe de six se réduit vite à deux ;</l>
+               <l>mon guide me conduit par de nouveaux sentiers ;</l>
+               <l>nous laissons le beau temps pour le vent qui frissonne,</l>
+               <l>et nous entrons enfin aux lieux où rien ne luit.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
