@@ -6,16 +6,32 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>L'enfer</title>
+            <title>L'Enfer de Dante</title>
             <author>Dante Alighieri</author>
+            <respStmt>
+               <resp>translated by</resp>
+               <name>Alexandre Cioranescu</name>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
-            <p> http://dantelab.dartmouth.edu/reader</p>
+            <publisher>Dante Lab Reader</publisher>
+            <availability><p>http://dantelab.dartmouth.edu/reader</p></availability>
          </publicationStmt>
          <sourceDesc>
-            <p/>
+            <bibl>Translation of the Inferno, by Dante Alighieri</bibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This encoded file was created by members of the Linked Editing Academic Framework (LEAF) team and made available for a LEAF / LEAF-Writer workshop. This file is not meant for
+               use or publication outside of the workshop environment.</p>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fr">French language translation</language>
+         </langUsage>
+      </profileDesc>
    </teiHeader>
    <text>
       <body>
