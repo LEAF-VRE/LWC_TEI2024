@@ -6,275 +6,289 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>La Divina Comedia</title>
+            <title>Infierno</title>
             <author>Dante Alighieri</author>
          </titleStmt>
          <publicationStmt>
-            <p> No translator named</p>
+            <publisher>BiblioWeb</publisher>
+            <availability>
+               <p>https://web.seducoahuila.gob.mx/biblioweb/upload/Dante%20Alighieri%20Divina%20comedia.pdf</p>
+            </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>Biblioweb - https://web.seducoahuila.gob.mx/biblioweb/upload/a_divina_comedia.pdf
-            
-            https://web.seducoahuila.gob.mx/biblioweb/upload/Dante%20Alighieri%20Divina%20comedia.pdf
-            </p>
+            <bibl>Translation of the Inferno, by Dante Alighieri</bibl>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="sp">Spanish language translation</language>
+         </langUsage>
+      </profileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This encoded file was created by members of the Linked Editing Academic Framework
+               (LEAF) team and made available for a LEAF / LEAF-Writer workshop. This file is not
+               meant for use or publication outside of the workshop environment.</p>
+         </projectDesc>
+      </encodingDesc>
    </teiHeader>
    <text>
       <body>
          <div>
-            <head>CANTO IV</head>
+            <head>Infierno: Canto IV</head>
 
-            <lg>
+            <lg n="1">
                <l>Rompió el profundo sueño de mi mente</l>
                <l>un gran trueno, de modo que cual hombre</l>
                <l>que a la fuerza despierta, me repuse; </l>
             </lg>
 
-            <lg>
+            <lg n="2">
                <l>la vista recobrada volví en torno</l>
                <l>ya puesto en pie, mirando fijamente,</l>
                <l>pues quería saber en dónde estaba. </l>
             </lg>
-            <lg>
+            <lg n="3">
                <l>En verdad que me hallaba justo al borde</l>
                <l>del valle del abismo doloroso,</l>
                <l>que atronaba con ayes infinitos.</l>
             </lg>
-            <lg>
+            <lg n="4">
                <l>Oscuro y hondo era y nebuloso,</l>
                <l>de modo que, aun mirando fijo al fondo,</l>
                <l>no distinguía allí cosa ninguna. </l>
             </lg>
-            <lg>
+            <lg n="5">
                <l>«Descendamos ahora al ciego mundo</l>
                <l>--dijo el poeta todo amortecido-:</l>
                <l>yo iré primero y tú vendrás detrás.» </l>
             </lg>
-            <lg>
+            <lg n="6">
                <l>Y al darme cuenta yo de su color,</l>
                <l>dije: « ¿Cómo he de ir si tú te asustas,</l>
                <l>y tú a mis dudas sueles dar consuelo?» </l>
             </lg>
-            <lg>
+            <lg n="7">
                <l>Y me dijo: «La angustia de las gentes</l>
                <l>que están aquí en el rostro me ha pintado</l>
                <l>la lástima que tú piensas que es miedo. </l>
             </lg>
-            <lg>
+            <lg n="8">
                <l>Vamos, que larga ruta nos espera.»</l>
                <l>Así me dijo, y así me hizo entrar</l>
                <l>al primer cerco que el abismo ciñe. </l>
             </lg>
-            <lg>
+            <lg n="9">
                <l>Allí, según lo que escuchar yo pude,</l>
                <l>llanto no había, mas suspiros sólo,</l>
                <l>que al aire eterno le hacían temblar. </l>
             </lg>
-            <lg>
+            <lg n="10">
                <l>Lo causaba la pena sin tormento</l>
                <l>que sufría una grande muchedumbre</l>
                <l>de mujeres, de niños y de hombres. </l>
             </lg>
-            <lg>
+            <lg n="11">
                <l>El buen Maestro a mí: «¿No me preguntas</l>
                <l>qué espíritus son estos que estás viendo?</l>
                <l>Quiero que sepas, antes de seguir, </l>
             </lg>
-            <lg>
+            <lg n="12">
                <l>que no pecaron: y aunque tengan méritos,</l>
                <l>no basta, pues están sin el bautismo,</l>
                <l>donde la fe en que crees principio tiene. </l>
             </lg>
-            <lg>
+            <lg n="13">
                <l>Al cristianismo fueron anteriores,</l>
                <l>y a Dios debidamente no adoraron:</l>
                <l>a éstos tales yo mismo pertenezco. </l>
             </lg>
-            <lg>
+            <lg n="14">
                <l>Por tal defecto, no por otra culpa,</l>
                <l>perdidos somos, y es nuestra condena</l>
                <l>vivir sin esperanza en el deseo.» </l>
             </lg>
-            <lg>
+            <lg n="15">
                <l>Sentí en el corazón una gran pena,</l>
                <l>puesto que gentes de mucho valor</l>
                <l>vi que en el limbo estaba suspendidos. </l>
             </lg>
-            <lg>
+            <lg n="16">
                <l>«Dime, maestro, dime, mi señor</l>
                <l>-yo comencé por querer estar cierto</l>
                <l>de aquella fe que vence la ignorancia-:</l>
             </lg>
-            <lg>
+            <lg n="17">
                <l>¿salió alguno de aquí, que por sus méritos </l>
                <l>o los de otro, se hiciera luego santo?»</l>
                <l>Y éste, que comprendió mi hablar cubierto, </l>
             </lg>
-            <lg>
+            <lg n="18">
                <l>respondió: «Yo era nuevo en este estado,</l>
                <l>cuando vi aquí bajar a un poderoso,</l>
                <l>coronado con signos de victoria. </l>
             </lg>
-            <lg>
+            <lg n="19">
                <l>Sacó la sombra del padre primero,</l>
                <l>y las de Abel, su hijo, y de Noé,</l>
                <l>del legista Moisés, el obediente; </l>
             </lg>
-            <lg>
+            <lg n="20">
                <l>del patriarca Abraham, del rey David,</l>
                <l>a Israel con sus hijos y su padre,</l>
                <l>y con Raquel, por la que tanto hizo, </l>
             </lg>
-            <lg>
+            <lg n="21">
                <l>y de otros muchos; y les hizo santos;</l>
                <l>y debes de saber que antes de eso,</l>
                <l>ni un esptritu humano se salvaba.» </l>
             </lg>
-            <lg>
+            <lg n="22">
                <l>No dejamos de andar porque él hablase,</l>
                <l>mas aún por la selva caminábamos,</l>
                <l>la selva, digo, de almas apiñadas </l>
             </lg>
-            <lg>
+            <lg n="23">
                <l>No estábamos aún muy alejados</l>
                <l>del sitio en que dormí, cuando vi un fuego,</l>
                <l>que al fúnebre hemisferio derrotaba. </l>
             </lg>
-            <lg>
+            <lg n="24">
                <l>Aún nos encontrábamos distantes,</l>
                <l>mas no tanto que en parte yo no viese</l>
                <l>cuán digna gente estaba en aquel sitio. </l>
             </lg>
-            <lg>
+            <lg n="25">
                <l>«Oh tú que honoras toda ciencia y arte,</l>
                <l>éstos ¿quién son, que tal grandeza tienen,</l>
                <l>que de todos los otros les separa?» </l>
             </lg>
-            <lg>
+            <lg n="26">
                <l>Y respondió: «Su honrosa nombradía,</l>
                <l>que allí en tu mundo sigue resonando</l>
                <l>gracia adquiere del cielo y recompensa.» </l>
             </lg>
-            <lg>
+            <lg n="27">
                <l>Entre tanto una voz pude escuchar:</l>
                <l>«Honremos al altísimo poeta;</l>
                <l>vuelve su sombra, que marchado había.» </l>
             </lg>
-            <lg>
+            <lg n="28">
                <l>Cuando estuvo la voz quieta y callada,</l>
                <l>vi cuatro grandes sombras que venían:</l>
                <l>ni triste, ni feliz era su rostro. </l>
             </lg>
-            <lg>
+            <lg n="29">
                <l>El buen maestro comenzó a decirme:</l>
                <l>«Fíjate en ése con la espada en mano, </l>
                <l>que como el jefe va delante de ellos: </l>
             </lg>
-            <lg>
+            <lg n="30">
                <l>Es Homero, el mayor de los poetas;</l>
                <l>el satírico Horacio luego viene;</l>
                <l>tercero, Ovidio; y último, Lucano. </l>
             </lg>
-            <lg>
+            <lg n="31">
                <l>Y aunque a todos igual que a mí les cuadra</l>
                <l>el nombre que sonó en aquella voz,</l>
                <l>me hacen honor, y con esto hacen bien.»</l>
             </lg>
-            <lg>
+            <lg n="32">
                <l>Así reunida vi a la escuela bella</l>
                <l>de aquel señor del altísimo canto,</l>
                <l>que sobre el resto cual águila vuela. </l>
             </lg>
-            <lg>
+            <lg n="33">
                <l>Después de haber hablado un rato entre ellos,</l>
                <l>con gesto favorable me miraron:</l>
                <l>y mi maestro, en tanto, sonreía. </l>
             </lg>
-            <lg>
+            <lg n="34">
                <l>Y todavía aún más honor me hicieron</l>
                <l>porque me condujeron en su hilera,</l>
                <l>siendo yo el sexto entre tan grandes sabios. </l>
             </lg>
-            <lg>
+            <lg n="35">
                <l>Así anduvimos hasta aquella luz,</l>
                <l>hablando cosas que callar es bueno,</l>
                <l>tal como era el hablarlas allí mismo. </l>
             </lg>
-            <lg>
+            <lg n="36">
                <l>Al pie llegamos de un castillo noble,</l>
                <l>siete veces cercado de altos muros,</l>
                <l>guardado entorno por un bello arroyo. </l>
             </lg>
-            <lg>
+            <lg n="37">
                <l>Lo cruzamos igual que tierra firme;</l>
                <l>crucé por siete puertas con los sabios:</l>
                <l>hasta llegar a un prado fresco y verde. </l>
             </lg>
-            <lg>
+            <lg n="38">
                <l>Lo cruzamos igual que tierra firme;</l>
                <l>crucé por siete puertas con los sabios:</l>
                <l>hasta llegar a un prado fresco y verde. </l>
             </lg>
-            <lg>
+            <lg n="39">
                <l>Nos apartamos a uno de los lados,</l>
                <l>en un claro lugar alto y abierto,</l>
                <l>tal que ver se podían todos ellos. </l>
             </lg>
-            <lg>
+            <lg n="40">
                <l>Erguido allí sobre el esmalte verde,</l>
                <l>las magnas sombras fuéronme mostradas,</l>
                <l>que de placer me colma haberlas visto. </l>
             </lg>
-            <lg>
+            <lg n="41">
                <l>A Electra vi con muchos compañeros,</l>
                <l>y entre ellos conocí a Héctor y a Eneas,</l>
                <l>y armado a César, con ojos grifaños. </l>
             </lg>
-            <lg>
+            <lg n="42">
                <l>Vi a Pantasilea y a Camila,</l>
                <l>y al rey Latino vi por la otra parte,</l>
                <l>que se sentaba con su hija Lavinia. </l>
             </lg>
-            <lg>
+            <lg n="43">
                <l>Vi a Bruto, aquel que destronó a Tarquino,</l>
                <l>a Cornelia, a Lucrecia, a Julia, a Marcia;</l>
                <l>y a Saladino vi, que estaba solo; </l>
             </lg>
-            <lg>
+            <lg n="44">
                <l>y al levantar un poco más la vista,</l>
                <l>vi al maestro de todos los que saben,</l>
                <l>sentado en filosófica familia. </l>
             </lg>
-            <lg>
+            <lg n="45">
                <l>Todos le miran, todos le dan honra:</l>
                <l>y a Sócrates, que al lado de Platón,</l>
                <l>están más cerca de él que los restantes;</l>
             </lg>
-            <lg>
+            <lg n="46">
                <l>Demócrito, que el mundo pone en duda,</l>
                <l>Anaxágoras, Tales y Diógenes,</l>
                <l>Empédocles, Heráclito y Zenón; </l>
             </lg>
-            <lg>
+            <lg n="47">
                <l>y al que las plantas observó con tino,</l>
                <l>Dioscórides, digo; y via Orfeo,</l>
                <l>Tulio, Livio y al moralista Séneca; </l>
             </lg>
-            <lg>
+            <lg n="48">
                <l>al geómetra Euclides, Tolomeo,</l>
                <l>Hipócrates, Galeno y Avicena,</l>
                <l>y a Averroes que hizo el «Comentario». </l>
             </lg>
-            <lg>
+            <lg n="49">
                <l>No puedo detallar de todos ellos,</l>
                <l>porque así me encadena el largo tema,</l>
                <l>que dicho y hecho no se corresponden. </l>
             </lg>
-            <lg>
+            <lg n="50">
                <l>El grupo de los seis se partió en dos:</l>
                <l>por otra senda me llevó mi guía,</l>
                <l>de la quietud al aire tembloroso</l>
+            </lg>
+            <lg n="51">
                <l>y llegué a un sitio en donde nada luce.</l>
             </lg>
          </div>
