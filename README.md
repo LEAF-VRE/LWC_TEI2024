@@ -1,5 +1,6 @@
 # LWC_TEI2024
-LEAF-Writer Commons Workshop at TEI2024 Conference
+## LEAF-Writer Commons Workshop at TEI2024 Conference
+### 07/Oct/2024: 2:00pm - 5:00pm
 
 This half-day in-person workshop introduces textual scholars and practitioners to the LEAF Commons suite of tools, a set of web-based, easy-to-use tools that support text encoding, named entity recognition, web annotation, text analysis and publication without users having to learn complex encoding languages, and supports the easy movement from one interoperable tool to the other depending on users' needs. These freely available tools support digital scholarly workflows for the collaborative production and publication of scholarly and documentary texts, editions, and collections on the web, without the need for software installation, while promoting best practices for text encoding, annotation, and metadata standards. The LEAF Commons suite enables the use of individual tools for specific purposes, as well as supporting an end-to-end workflow beginning with outputs of optical character or handwritten text recognition systems, transcriptions, or born-digital texts and ends with publication on the web, allowing it to serve a wide range of research and pedagogical uses.
 
