@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Divine Comedy</title>
+            <author>Dante Alighieri</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               Release date: August 1, 1997 [eBook #1004]
+               Most recently updated: April 10, 2021
+               
+               Language: Italian
+               
+               </p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://www.gutenberg.org/cache/epub/997/pg997-images.html#canto04</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            <head>CANTO IV</head>
+            
+            
+            <lg><l>Ruppemi l’alto sonno ne la testa</l>
+               <l>un greve truono, sì ch’io mi riscossi</l>
+               <l>come persona ch’è per forza desta;</l></lg>
+            
+            <lg><l>e l’occhio riposato intorno mossi,</l>
+               <l>dritto levato, e fiso riguardai</l>
+               <l>per conoscer lo loco dov’ io fossi.</l></lg>
+            
+            <lg><l>Vero è che ’n su la proda mi trovai</l>
+               <l>de la valle d’abisso dolorosa</l>
+               <l>che ’ntrono accoglie d’infiniti guai.</l></lg>
+            
+            <lg><l>Oscura e profonda era e nebulosa</l>
+               <l>tanto che, per ficcar lo viso a fondo,</l>
+               <l>io non vi discernea alcuna cosa.</l></lg>
+            
+            <lg><l>«Or discendiam qua giù nel cieco mondo»,</l>
+               <l>cominciò il poeta tutto smorto.</l>
+               <l>«Io sarò primo, e tu sarai secondo».</l></lg>
+            
+            <lg><l>E io, che del color mi fui accorto,</l>
+               <l>dissi: «Come verrò, se tu paventi</l>
+               <l>che suoli al mio dubbiare esser conforto?»</l></lg>
+            
+            <lg><l>Ed elli a me: «L’angoscia de le genti</l>
+               <l>che son qua giù, nel viso mi dipigne</l>
+               <l>quella pietà che tu per tema senti.</l></lg>
+            
+            <lg><l>Andiam, ché la via lunga ne sospigne».</l>
+               <l>Così si mise e così mi fé intrare</l>
+               <l>nel primo cerchio che l’abisso cigne.</l></lg>
+            
+            <lg><l>Quivi, secondo che per ascoltare,</l>
+               <l>non avea pianto mai che di sospiri</l>
+               <l>che l’aura etterna facevan tremare;</l></lg>
+            
+            <lg><l>ciò avvenia di duol sanza martìri,</l>
+               <l>ch’avean le turbe, ch’eran molte e grandi,</l>
+               <l>d’infanti e di femmine e di viri.</l></lg>
+            
+            <lg><l>Lo buon maestro a me: «Tu non dimandi</l>
+               <l>che spiriti son questi che tu vedi?</l>
+               <l>Or vo’ che sappi, innanzi che più andi,</l></lg>
+            
+            <lg><l>ch’ei non peccaro; e s’elli hanno mercedi,</l>
+               <l>non basta, perché non ebber battesmo,</l>
+               <l>ch’è porta de la fede che tu credi;</l></lg>
+            
+            <lg><l>e s’e’ furon dinanzi al cristianesmo,</l>
+               <l>non adorar debitamente a Dio:</l>
+               <l>e di questi cotai son io medesmo.</l></lg>
+            
+            <lg><l>Per tai difetti, non per altro rio,</l>
+               <l>semo perduti, e sol di tanto offesi</l>
+               <l>che sanza speme vivemo in disio».</l></lg>
+            
+            <lg><l>Gran duol mi prese al cor quando lo ’ntesi,</l>
+               <l>però che gente di molto valore</l>
+               <l>conobbi che ’n quel limbo eran sospesi.</l></lg>
+            
+            <lg><l>«Dimmi, maestro mio, dimmi, segnore»,</l>
+               <l>comincia’ io per voler esser certo</l>
+               <l>di quella fede che vince ogne errore:</l></lg>
+            
+            <lg><l>«uscicci mai alcuno, o per suo merto</l>
+               <l>o per altrui, che poi fosse beato?».</l>
+               <l>E quei che ’ntese il mio parlar coverto,</l></lg>
+            
+            <lg><l>rispuose: «Io era nuovo in questo stato,</l>
+               <l>quando ci vidi venire un possente,</l>
+               <l>con segno di vittoria coronato.</l></lg>
+            
+            <lg><l>Trasseci l’ombra del primo parente,</l>
+               <l>d’Abèl suo figlio e quella di Noè,</l>
+               <l>di Moïsè legista e ubidente;</l></lg>
+            
+            <lg><l>Abraàm patrïarca e Davìd re,</l>
+               <l>Israèl con lo padre e co’ suoi nati</l>
+               <l>e con Rachele, per cui tanto fé,</l></lg>
+            
+            <lg><l>e altri molti, e feceli beati.</l>
+               <l>E vo’ che sappi che, dinanzi ad essi,</l>
+               <l>spiriti umani non eran salvati».</l></lg>
+            
+            <lg><l>Non lasciavam l’andar perch’ ei dicessi,</l>
+               <l>ma passavam la selva tuttavia,</l>
+               <l>la selva, dico, di spiriti spessi.</l></lg>
+            
+            <lg><l>Non era lunga ancor la nostra via</l>
+               <l>di qua dal sonno, quand’ io vidi un foco</l>
+               <l>ch’emisperio di tenebre vincia.</l></lg>
+            
+            <lg><l>Di lungi n’eravamo ancora un poco,</l>
+               <l>ma non sì ch’io non discernessi in parte</l>
+               <l>ch’orrevol gente possedea quel loco.</l></lg>
+            
+            <lg><l>«O tu ch’onori scïenzïa e arte,</l>
+               <l>questi chi son c’hanno cotanta onranza,</l>
+               <l>che dal modo de li altri li diparte?».</l></lg>
+            
+            <lg><l>E quelli a me: «L’onrata nominanza</l>
+               <l>che di lor suona sù ne la tua vita,</l>
+               <l>grazïa acquista in ciel che sì li avanza».</l></lg>
+            
+            <lg><l>Intanto voce fu per me udita:</l>
+               <l>«Onorate l’altissimo poeta;</l>
+               <l>l’ombra sua torna, ch’era dipartita».</l></lg>
+            
+            <lg><l>Poi che la voce fu restata e queta,</l>
+               <l>Fvidi quattro grand’ ombre a noi venire:</l>
+               <l>sembianz’ avevan né trista né lieta.</l></lg>
+            
+            <lg><l>Lo buon maestro cominciò a dire:</l>
+               <l>«Mira colui con quella spada in mano,</l>
+               <l>che vien dinanzi ai tre sì come sire:</l></lg>
+            
+            <lg><l>quelli è Omero poeta sovrano;</l>
+               <l>l’altro è Orazio satiro che vene;</l>
+               <l>Ovidio è ’l terzo, e l’ultimo Lucano.</l></lg>
+            
+            <lg><l>Però che ciascun meco si convene</l>
+               <l>nel nome che sonò la voce sola,</l>
+               <l>fannomi onore, e di ciò fanno bene».</l></lg>
+            
+            <lg><l>Così vid’ i’ adunar la bella scola</l>
+               <l>di quel segnor de l’altissimo canto</l>
+               <l>che sovra li altri com’ aquila vola.</l></lg>
+            
+            <lg><l>Da ch’ebber ragionato insieme alquanto,</l>
+               <l>volsersi a me con salutevol cenno,</l>
+               <l>e ’l mio maestro sorrise di tanto;</l></lg>
+            
+            <lg><l>e più d’onore ancora assai mi fenno,</l>
+               <l>ch’e’ sì mi fecer de la loro schiera,</l>
+               <l>sì ch’io fui sesto tra cotanto senno.</l></lg>
+            
+            <lg><l>Così andammo infino a la lumera,</l>
+               <l>parlando cose che ’l tacere è bello,</l>
+               <l>sì com’ era ’l parlar colà dov’ era.</l></lg>
+            
+            <lg><l>Venimmo al piè d’un nobile castello,</l>
+               <l>sette volte cerchiato d’alte mura,</l>
+               <l>difeso intorno d’un bel fiumicello.</l></lg>
+            
+            <lg><l>Questo passammo come terra dura;</l>
+               <l>per sette porte intrai con questi savi:</l>
+               <l>giugnemmo in prato di fresca verdura.</l></lg>
+            
+            <lg><l>Genti v’eran con occhi tardi e gravi,</l>
+               <l>di grande autorità ne’ lor sembianti:</l>
+               <l>parlavan rado, con voci soavi.</l></lg>
+            
+            <lg><l>Traemmoci così da l’un de’ canti,</l>
+               <l>in loco aperto, luminoso e alto,</l>
+               <l>sì che veder si potien tutti quanti.</l></lg>
+            
+            <lg><l>Colà diritto, sovra ’l verde smalto,</l>
+               <l>mi fuor mostrati li spiriti magni,</l>
+               <l>che del vedere in me stesso m’essalto.</l></lg>
+            
+            <lg><l>I’ vidi Eletra con molti compagni,</l>
+               <l>tra ’ quai conobbi Ettòr ed Enea,</l>
+               <l>Cesare armato con li occhi grifagni.</l></lg>
+            
+            <lg><l>Vidi Cammilla e la Pantasilea;</l>
+               <l>da l’altra parte vidi ’l re Latino</l>
+               <l>che con Lavina sua figlia sedea.</l></lg>
+            
+            <lg><l>Vidi quel Bruto che cacciò Tarquino,</l>
+               <l>Lucrezia, Iulia, Marzïa e Corniglia;</l>
+               <l>e solo, in parte, vidi ’l Saladino.</l></lg>
+            
+            <lg><l>Poi ch’innalzai un poco più le ciglia,</l>
+               <l>vidi ’l maestro di color che sanno</l>
+               <l>seder tra filosofica famiglia.</l></lg>
+            
+            <lg><l>Tutti lo miran, tutti onor li fanno:</l>
+               <l>quivi vid’ ïo Socrate e Platone,</l>
+               <l>che ’nnanzi a li altri più presso li stanno;</l></lg>
+            
+            <lg><l>Democrito che ’l mondo a caso pone,</l>
+               <l>Dïogenès, Anassagora e Tale,</l>
+               <l>Empedoclès, Eraclito e Zenone;</l></lg>
+            
+            <lg><l>e vidi il buono accoglitor del quale,</l>
+               <l>Dïascoride dico; e vidi Orfeo,</l>
+               <l>Tulïo e Lino e Seneca morale;</l></lg>
+            
+            <lg><l>Euclide geomètra e Tolomeo,</l>
+               <l>Ipocràte, Avicenna e Galïeno,</l>
+               <l>Averoìs, che ’l gran comento feo.</l></lg>
+            
+            <lg><l>Io non posso ritrar di tutti a pieno,</l>
+               <l>però che sì mi caccia il lungo tema,</l>
+               <l>che molte volte al fatto il dir vien meno.</l></lg>
+            
+            <lg><l>La sesta compagnia in due si scema:</l>
+               <l>per altra via mi mena il savio duca,</l>
+               <l>fuor de la queta, ne l’aura che trema.</l></lg>
+            
+            <lg><l>E vegno in parte ove non è che luca.</l></lg>
+         </div>
+      </body>
+  </text>
+</TEI>
